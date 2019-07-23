@@ -28,7 +28,7 @@ This repository contains the Pivot backend API that was built using the [AWS Cha
    > pip install chalice
    > pip install boto3
    ```
-4. Navigate to the main repo directory and install the remaining requirements:
+4. Navigate to the root directory and install the remaining requirements:
    ```
    > pip install -r requirements.txt
    ```
